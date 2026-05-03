@@ -252,7 +252,3 @@ What are the cheapest 1BHK options in Hyderabad?
 | buyer | Browse, search, use AI assistant |
 | seller | All buyer permissions + create listings |
 | admin | All permissions + delete any listing |
-
-## Interview Summary
-
-> "I built a full-stack real estate platform with React, Node.js, and MongoDB, and integrated a LangChain AI agent that understands natural language requests and autonomously searches, filters, and recommends properties without the user touching a single filter."
